@@ -2,6 +2,10 @@
 
 Aplicación Android para la toma de pedidos, cálculo de subtotales y gestión de propinas.
 
+## Autor
+
+Juan Sanhueza R.
+
 ## 1. Clases Modelo
 
 Implementadas en el paquete `model` siguiendo el diagrama de clases:
