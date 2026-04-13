@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Restaurant Order</string>
+    <string name="pastel_de_choclo">Pastel de Choclo</string>
+    <string name="cazuela">Cazuela</string>
+    <string name="cantidad_label">Cant.</string>
+    <string name="comida_label">Comida</string>
+    <string name="propina_label">Propina</string>
+    <string name="total_label">TOTAL</string>
+    <string name="cero_pesos">$0</string>
+    <string name="logo_desc">Restaurant Logo</string>
 </resources>
